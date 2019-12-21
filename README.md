@@ -1,6 +1,6 @@
-# How to create a user in react.js
+# Function implementation how to create a user account by using reactjs
 
-## This application I use 
+## In this application I use 
 ```
     1. React.Js
     2. Redux.Js
@@ -10,7 +10,7 @@
     6. React-Bootstrap 4.x
 ```
 
-### Why all of this?
+### Why all of this library?
 ```
     1. React.Js --> Core functionalty of reactjs
     [ 2. Redux.Js --> 
