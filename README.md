@@ -13,7 +13,8 @@
 ### Why all of this library?
 ```
     1. React.Js --> Core functionalty of reactjs
-    [ 2. Redux.Js --> 
+    [
+    2. Redux.Js
     3. React-Redux
     4. Axios
     5. Thunk
